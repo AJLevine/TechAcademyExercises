@@ -1,0 +1,7 @@
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\ArrayLoopListExercise.exe.config
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\ArrayLoopListExercise.exe
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\bin\Debug\ArrayLoopListExercise.pdb
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\ArrayLoopListExercise.csprojAssemblyReference.cache
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\ArrayLoopListExercise.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\ArrayLoopListExercise.exe
+c:\users\student\source\repos\ArrayLoopListExercise\ArrayLoopListExercise\obj\Debug\ArrayLoopListExercise.pdb
