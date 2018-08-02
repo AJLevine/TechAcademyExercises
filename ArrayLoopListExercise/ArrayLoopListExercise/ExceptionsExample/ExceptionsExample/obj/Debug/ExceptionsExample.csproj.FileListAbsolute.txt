@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\bin\Debug\ExceptionsExample.exe.config
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\bin\Debug\ExceptionsExample.exe
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\bin\Debug\ExceptionsExample.pdb
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\obj\Debug\ExceptionsExample.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\obj\Debug\ExceptionsExample.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\obj\Debug\ExceptionsExample.exe
+C:\Users\Student\source\repos\ExceptionsExample\ExceptionsExample\obj\Debug\ExceptionsExample.pdb
