@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\mathClass4\mathClass4\bin\Debug\mathClass4.exe.config
+C:\Users\Student\source\repos\mathClass4\mathClass4\bin\Debug\mathClass4.exe
+C:\Users\Student\source\repos\mathClass4\mathClass4\bin\Debug\mathClass4.pdb
+C:\Users\Student\source\repos\mathClass4\mathClass4\obj\Debug\mathClass4.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\mathClass4\mathClass4\obj\Debug\mathClass4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\mathClass4\mathClass4\obj\Debug\mathClass4.exe
+C:\Users\Student\source\repos\mathClass4\mathClass4\obj\Debug\mathClass4.pdb
