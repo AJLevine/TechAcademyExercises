@@ -43,12 +43,14 @@ namespace mathClass3
             {
                 num = num * 5;
                 Console.WriteLine("Your new number is: " + num);
+                Console.Read();
             }     
             else
             {
-                Console.WriteLine(s + " is not a number");
+                Console.WriteLine(three + " is not a number");
+                Console.Read();
             }
-
+            
         }
     }
 }

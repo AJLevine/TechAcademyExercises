@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MathClass5\MathClass5\bin\Debug\MathClass5.exe.config
+C:\Users\Student\source\repos\MathClass5\MathClass5\bin\Debug\MathClass5.exe
+C:\Users\Student\source\repos\MathClass5\MathClass5\bin\Debug\MathClass5.pdb
+C:\Users\Student\source\repos\MathClass5\MathClass5\obj\Debug\MathClass5.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MathClass5\MathClass5\obj\Debug\MathClass5.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathClass5\MathClass5\obj\Debug\MathClass5.exe
+C:\Users\Student\source\repos\MathClass5\MathClass5\obj\Debug\MathClass5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\mathClass3\mathClass3\obj\Debug\mathClass3.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\mathClass3\mathClass3\obj\Debug\mathClass3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\mathClass3\mathClass3\bin\Debug\mathClass3.exe.config
+C:\Users\Student\source\repos\mathClass3\mathClass3\bin\Debug\mathClass3.exe
+C:\Users\Student\source\repos\mathClass3\mathClass3\bin\Debug\mathClass3.pdb
+C:\Users\Student\source\repos\mathClass3\mathClass3\obj\Debug\mathClass3.exe
+C:\Users\Student\source\repos\mathClass3\mathClass3\obj\Debug\mathClass3.pdb
