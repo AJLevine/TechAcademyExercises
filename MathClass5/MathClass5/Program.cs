@@ -10,9 +10,12 @@ namespace MathClass5
     {
         static void Main()
         {
-            double numberOne;
+            int numberOne;
+            double numberTwo;
+            int timesSubtracted = 0;
             MathConstructor example = new MathConstructor();
-        
+
+            
             //2. In the Main() method, instantiate that class.
             Console.WriteLine("Type an integer and receive its value divided by two: ");
             numberOne = Convert.ToInt32(Console.ReadLine());
@@ -20,18 +23,17 @@ namespace MathClass5
             example.DivideByTwo(numberOne);
             Console.Read();
 
-            Console.WriteLine("Type another number and receive its value divided by two: ");
-            numberOne = Convert.ToDouble(Console.ReadLine());
-            example.DivideByTwo(numberOne);
-            Console.Read();
-
             //3. Have the user enter a number.Call the method on that number.Display the output to the screen. It should be the entered number, divided by two.
 
-            //4. Create a method with output parameters.
-
-            //5. Overload a method.
-
-            //6. Declare a class to be static.
+            Console.WriteLine("Type another number and receive its value divided by two: ");
+            numberTwo = Convert.ToDouble(Console.ReadLine());
+            example.DivideByTwo(numberTwo);
+            MathConstructor.SubtractFive(3, out timesSubtracted, 1);
+            Console.WriteLine("Times subtracted: {0}", timesSubtracted);
+            Console.Read();
         }
+            
+            //4. Create a method with output parameters.
+            
     }
 }

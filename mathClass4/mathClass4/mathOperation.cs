@@ -12,11 +12,13 @@ namespace mathClass4
         //          Make one of them optional.Have the method do a math operation and return a integer result.
         
 
-        public void Taketwo (int firstParam, int secondParam)
+        public int Taketwo (int firstParam, int secondParam = 1)
         {
             firstParam = firstParam * 5;
-            Console.WriteLine(firstParam);
             
+            return firstParam;
+
+
         }
 
         

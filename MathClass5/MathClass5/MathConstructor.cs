@@ -22,5 +22,21 @@ namespace MathClass5
 
             Console.WriteLine(numberOne);
         }
+
+        public static int SubtractFive(int newNumber, out int timesSubtracted, int times = 1)
+        {
+            timesSubtracted = 0;
+            Console.WriteLine("Enter a number and receive its value minus 5: ");
+            newNumber = Convert.ToInt32(Console.ReadLine());
+            
+            for (int i = 0; i < times; i++)
+            {
+                timesSubtracted++;
+                newNumber = newNumber - 5;
+            }
+
+            return newNumber;
+
+        }
     }
 }

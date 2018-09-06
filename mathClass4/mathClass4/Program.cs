@@ -20,7 +20,8 @@ namespace mathClass4
             int secondParam = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("You will now receive the first integer with an operation performed on it: ");
-            firstAttempt.Taketwo(firstParam, secondParam);
+            int answer = firstAttempt.Taketwo(firstParam, secondParam);
+            Console.WriteLine(answer);
 
             Console.ReadKey();
          }
